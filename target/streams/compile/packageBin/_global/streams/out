@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/pauldefusco/Documents/demos_github/cde_scala_example/target/scala-2.12/cde-scala-example_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CdeScalaExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pauldefusco/Documents/demos_github/cde_scala_example/target/scala-2.12/classes/CdeScalaExample.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CdeScalaExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pauldefusco/Documents/demos_github/cde_scala_example/target/scala-2.12/classes/CdeScalaExample$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CdeScalaExample$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/pauldefusco/Documents/demos_github/cde_scala_example/target/scala-2.12/classes/CdeScalaExample$$typecreator1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
